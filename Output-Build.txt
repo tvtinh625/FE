@@ -1,4 +1,4 @@
 ﻿Build started...
-1>------ Build started: Project: NguyenNhatAnhDuc_KiemtraFE, Configuration: Debug Any CPU ------
-1>  NguyenNhatAnhDuc_KiemtraFE -> C:\Users\SV\source\repos\NguyenNhatAnhDuc_KiemtraFE\NguyenNhatAnhDuc_KiemtraFE\bin\NguyenNhatAnhDuc_KiemtraFE.dll
+1>------ Build started: Project: TranVanTinh_KiemtraFE, Configuration: Debug Any CPU ------
+1> TranVanTinh_KiemtraFE -> C:\Users\SV\source\repos\TranVanTinh_KiemtraFE\TranVanTinh_KiemtraFE\bin\TranVanTinh_KiemtraFE.dll
 ========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
